@@ -1,0 +1,20 @@
+[
+  {
+    "Id": "377fc977-6e96-42a1-a349-f03f461d9608",
+    "Date": "2026-02-01T00:00:00+13:00",
+    "Description": "lube",
+    "Amount": 5.99
+  },
+  {
+    "Id": "3bf57dca-3702-418b-86c8-efce6fe6c493",
+    "Date": "2026-02-01T00:00:00+13:00",
+    "Description": "coffee",
+    "Amount": 6.50
+  },
+  {
+    "Id": "5244145d-ef38-41b7-b457-aa92cb909db1",
+    "Date": "2026-02-01T00:00:00+13:00",
+    "Description": "pornofilm",
+    "Amount": 17.99
+  }
+]
